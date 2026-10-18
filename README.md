@@ -153,5 +153,12 @@ Add genuine project evidence before submission, including:
 Core packet capture, protocol classification, and automated test
 validation have been demonstrated in the Kali Linux lab.
 
+## Project Evidence
+
+The `evidence/` folder contains original screenshots documenting the project setup, development, validation, automated tests, and live packet capture in Kali Linux.
+
+These screenshots provide practical evidence of the implementation process and the results obtained during authorized lab testing.
+
+[View Project Evidence](./evidence/)
 Final submission readiness depends on the remaining quality checks,
 documentation review, and publication of the repository.
