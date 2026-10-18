@@ -160,5 +160,6 @@ The `evidence/` folder contains original screenshots documenting the project set
 These screenshots provide practical evidence of the implementation process and the results obtained during authorized lab testing.
 
 [View Project Evidence](./evidence/)
+
 Final submission readiness depends on the remaining quality checks,
 documentation review, and publication of the repository.
